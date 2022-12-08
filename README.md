@@ -1,6 +1,3 @@
-<div align="center">
-    <img href="https://projecterror.dev" width="150" src="https://i.tasoagc.dev/c1pD" alt="Material-UI logo" />
-</div>
 <h1 align="center">Svelte & Lua Boilerplate</h1>
 
 This repository is a basic boilerplate for getting started
